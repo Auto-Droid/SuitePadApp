@@ -5,8 +5,10 @@
 2. **datarepo**
 3. **httpproxy**
 
-https://github.com/koush/AndroidAsync
-
+## Diagram
 ![Diagram](https://raw.githubusercontent.com/Auto-Droid/SuitePadApp/master/suitepad.jpg)
 
 All three modules are seperate micro apps and can be signed by different keystore
+
+
+AndroidAsync Ref : https://github.com/koush/AndroidAsync

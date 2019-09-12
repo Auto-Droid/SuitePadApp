@@ -7,6 +7,6 @@
 
 https://github.com/koush/AndroidAsync
 
-#[Screenshot](https://raw.githubusercontent.com/Auto-Droid/SuitePadApp/master/suitepad.jpg)
+![Diagram](https://raw.githubusercontent.com/Auto-Droid/SuitePadApp/master/suitepad.jpg)
 
 All three modules are seperate micro apps and can be signed by different keystore
